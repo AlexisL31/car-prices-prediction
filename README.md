@@ -102,7 +102,7 @@ jupyter notebook car_prices_prediction.ipynb
 
 ## About Me
 
-Built by Alexis Lim, an MSc Applied Data Science candidate at Royal Holloway, University of London and a Research Analyst Intern at FleishmanHillard. I am actively looking for entry level Data Analyst and Analytics Intern roles in London.
+Built by Alexis Lim, an MSc Applied Data Science candidate at Royal Holloway.  I am actively looking for entry level Data Analyst and Analytics Intern roles in London.
 
 LinkedIn: [alexis-lim-634325134](https://www.linkedin.com/in/alexis-lim-634325134/)
 Email: a.lim10@hotmail.co.uk
